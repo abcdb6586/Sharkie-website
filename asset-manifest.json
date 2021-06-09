@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Sharkie-website/static/css/main.60937345.chunk.css",
+    "main.js": "/Sharkie-website/static/js/main.ece66a88.chunk.js",
+    "main.js.map": "/Sharkie-website/static/js/main.ece66a88.chunk.js.map",
+    "runtime-main.js": "/Sharkie-website/static/js/runtime-main.2add0219.js",
+    "runtime-main.js.map": "/Sharkie-website/static/js/runtime-main.2add0219.js.map",
+    "static/js/2.895dc295.chunk.js": "/Sharkie-website/static/js/2.895dc295.chunk.js",
+    "static/js/2.895dc295.chunk.js.map": "/Sharkie-website/static/js/2.895dc295.chunk.js.map",
+    "index.html": "/Sharkie-website/index.html",
+    "static/css/main.60937345.chunk.css.map": "/Sharkie-website/static/css/main.60937345.chunk.css.map",
+    "static/js/2.895dc295.chunk.js.LICENSE.txt": "/Sharkie-website/static/js/2.895dc295.chunk.js.LICENSE.txt",
+    "static/media/fishing.svg": "/Sharkie-website/static/media/fishing.d2473eea.svg",
+    "static/media/nature.25127456.svg": "/Sharkie-website/static/media/nature.25127456.svg",
+    "static/media/powerful.svg": "/Sharkie-website/static/media/powerful.34a23cdd.svg",
+    "static/media/shark.274b8f48.mp4": "/Sharkie-website/static/media/shark.274b8f48.mp4",
+    "static/media/ship.7adad6ca.svg": "/Sharkie-website/static/media/ship.7adad6ca.svg",
+    "static/media/social.d75e56ab.svg": "/Sharkie-website/static/media/social.d75e56ab.svg",
+    "static/media/surf.svg": "/Sharkie-website/static/media/surf.c4cdd8b0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2add0219.js",
+    "static/js/2.895dc295.chunk.js",
+    "static/css/main.60937345.chunk.css",
+    "static/js/main.ece66a88.chunk.js"
+  ]
+}
