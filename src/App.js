@@ -8,7 +8,7 @@ const app = () => {
   return (
     <Router>
       <Switch>
-        <Route path="/" component={Home} exact />
+        <Route path="/Sharkie-website" component={Home} exact />
         <Route path="/signin" component={SigninPage} exact />
       </Switch>
     </Router>
